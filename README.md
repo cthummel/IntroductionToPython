@@ -22,9 +22,9 @@ We will be writing our command line program in Visual Studio Code. This is a fre
 
 Once you have installed Visual Studio, there are a two things to do:
 
-a) Click on the blue "Open Folder" button and select my folder that you downloaded. 
+    a) Click on the blue "Open Folder" button and select my folder that you downloaded. 
 
-b) Click on the box icon on the left panel that is second from the bottom. This will open up the extensions that Visual Studio has installed. We want to install the Python linter. Search for "Python" and click the green install button and you will be good to go. A linter is a feature that is basically like a spell checker for programming. It will tell you if you have made some sort of mistake that will cause the program to fail to run. 
+    b) Click on the box icon on the left panel that is second from the bottom. This will open up the extensions that Visual Studio has installed. We want to install the Python linter. Search for "Python" and click the green install button and you will be good to go. A linter is a feature that is basically like a spell checker for programming. It will tell you if you have made some sort of mistake that will cause the program to fail to run. 
 
 If you have any issues with this step we will go over it at the start of class so dont worry too much.
 
