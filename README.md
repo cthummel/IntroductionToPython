@@ -8,16 +8,15 @@ We need to install Python and Visual Studio Code for this demo. Getting the jupy
 Above, click on the big green button and select "Download as Zip". This will download all the files you need for this class.
 
 
-#### 2) Python
+#### 2) Python: <a href="https://www.python.org/downloads/release/python-382/">https://www.python.org/downloads/release/python-382/</a>
 To install Python, you will need to visit this website and download the version that matches your operating system. You can find the installer at the bottom of the page.
-<a href="https://www.python.org/downloads/release/python-382/">https://www.python.org/downloads/release/python-382/</a>
+
 
 Once downloaded, double click on "Install Certificates". This will open a terminal window where the installation occurs.
 
 
-#### 3) Visual Studio Code
+#### 3) Visual Studio Code: <a href="https://code.visualstudio.com">https://code.visualstudio.com</a>
 We will be writing our command line program in Visual Studio Code. This is a free IDE that allows programming in a variety of languages.
-<a href="https://code.visualstudio.com">https://code.visualstudio.com</a>
 
 Once you have installed Visual Studio, there are a two things to do:
 
