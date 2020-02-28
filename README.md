@@ -1,4 +1,4 @@
-## Installation.
+## Installation
 
 We need to install Python and Visual Studio Code for this demo. Getting the jupyter notebook and git is totally optional. If you are interested in doing more programming or working with python more in the future, give them a shot.
 
