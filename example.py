@@ -62,8 +62,8 @@ def dataManipulation(header, data):
 
 
 
-def output(filename, data):
-    np.savetxt(filename, data, delimiter=",", fmt="%1.2f")
+def output(filename, data, header):
+    np.savetxt(filename, data, delimiter=",", fmt="%1.2f", header=",".join(header))
 
 
 
@@ -86,7 +86,7 @@ def main(argv):
     dataManipulation(header, data)
 
     #We can write the data back to a file.
-    output(outputFilePath, data)
+    output(outputFilePath, data, header)
 
 
 

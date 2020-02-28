@@ -6,7 +6,9 @@ import scipy
 import sys, math, random
 
 
-###Commenting:
+#######################
+######Commenting#######
+#######################
 
 #This line has been commented out.
 print("After this, the following bits have been commented out.") #See you dont get the rest of this text.
@@ -14,7 +16,9 @@ print("After this, the following bits have been commented out.") #See you dont g
 #or even this.
 
 
-###Printing:
+#######################
+########Printing#######
+#######################
 print()
 print("Hello World")
 print(3)
@@ -32,7 +36,9 @@ print()
 
 
 
-###Variables:
+#######################
+#######Variables#######
+#######################
 variables = 3
 are = 4.0
 easy = "This is more than one word..."
