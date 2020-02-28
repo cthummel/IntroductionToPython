@@ -1,11 +1,11 @@
 ## Installation.
 
-We need to install Python and Visual Studio Code for this demo. Getting the jupyter notebook and git are recommended but not needed. 
+We need to install Python and Visual Studio Code for this demo. Getting the jupyter notebook and git is totally optional. If you are interested in doing more programming or working with python more in the future, give them a shot.
 
 ### Required:
 
 #### 1) Clone this repository: 
-Click on the big green button and select "Download as Zip". This will download all the files you need for this class.
+Above, click on the big green button and select "Download as Zip". This will download all the files you need for this class.
 
 
 #### 2) Python
@@ -19,9 +19,12 @@ Once downloaded, double click on "Install Certificates". This will open a termni
 #### 3) Visual Studio Code
 We will be writing our command line program in Visual Studio Code. This is a free IDE that allows programming in a variety of languages.
 <a href="https://code.visualstudio.com">https://code.visualstudio.com</a>
-https://code.visualstudio.com
 
-Once you have installed Visual Studio, when you open it up you will want to click on the box like icon on the left hand side of the window. This will open up the extensions that Visual Studio has installed. We want to install the Python linter. This will be labeled "Python" and is published by Microsoft. Just click the green install button and you will be good to go. A linter is a feature that is basically like a spell checker for programming. It will tell you if you have made some sort of mistake that will cause the program to fail to run. 
+Once you have installed Visual Studio, there are a two things to do:
+
+a) Click on the blue "Open Folder" button and select my folder that you downloaded. 
+
+b) Click on the box icon on the left panel that is second from the bottom. This will open up the extensions that Visual Studio has installed. We want to install the Python linter. Search for "Python" and click the green install button and you will be good to go. A linter is a feature that is basically like a spell checker for programming. It will tell you if you have made some sort of mistake that will cause the program to fail to run. 
 
 If you have any issues with this step we will go over it at the start of class so dont worry too much.
 
@@ -44,7 +47,8 @@ To start the notebook run:
 #### 2) Git
 Git is basically google docs for programmers. If you are planning on working collaberatively on just about any programming project, you will be coordinating work through git. It isnt too difficult to learn the basics and is very useful for version control.
 
-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+<a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</a>
+
 
 You can clone from my repository for this project at:
 
